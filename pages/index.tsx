@@ -13,9 +13,6 @@ import config from '../react-bricks/config'
 import Layout from '../components/layout'
 import ErrorNoKeys from '../components/errorNoKeys'
 import ErrorNoHomePage from '../components/errorNoHomePage'
-import * as ackeeTracker from 'ackee-tracker'
-
-ackeeTracker.create('https://ackee.catdrout.xyz').record('1e62c274-6f41-4a77-b536-00557518e1a9')
 
 interface HomeProps {
   page: types.Page
