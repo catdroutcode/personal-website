@@ -4,7 +4,7 @@ export default function Document() {
   return (
     <Html className="dark">
       <Head>
-        <script async src="https://ackee.catdrout.xyz/tracker.js" data-ackee-server="https://ackee.catdrout.xyz" data-ackee-domain-id="1e62c274-6f41-4a77-b536-00557518e1a9"></script>
+        <script async src="https://ackee-production-f163.up.railway.app/tracker.js" data-ackee-server="https://ackee-production-f163.up.railway.app" data-ackee-domain-id="612c630c-c3a1-4d74-bff1-94e814099c28"></script>
       </Head>
       <body>
         <Main />
